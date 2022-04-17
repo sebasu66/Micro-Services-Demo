@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feaafe7d-de61-4b89-81a5-a07c0ece5d51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/css/coverage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/css/highlight-idea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/img/arrowDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/img/arrowUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/js/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-1/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/sources/source-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-2/sources/source-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-3/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/sources/source-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-4/sources/source-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-5/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-6/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/coverageReports/ns-7/sources/source-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/Exceptions/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/Exceptions/ExWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/Exceptions/ExceptionsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/Exceptions/RestResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/controller/UserRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/model/BaseModelEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/model/UserRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/model/UserRestByRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/repository/UserRestRepoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/service/UserRestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/java/com/sebasu/usersms/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/test/java/com/sebasu/users/Exceptions/CustomExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/test/java/com/sebasu/users/Exceptions/RestResponseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsersMS/src/test/java/com/sebasu/users/model/UserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27d8Tea6HvKYS8gDEoDyOT44kBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Users-Micro-Service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JAR Application.UsersMS-0.0.1-SNAPSHOT.jar">
+    <configuration name="AccountMS-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/AccountMS/target/AccountMS-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Eureka-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Eureka/target/Eureka-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UsersMS-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/UsersMS/target/UsersMS-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.UsersMS-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="JAR Application.AccountMS-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="JAR Application.Eureka-0.0.1-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feaafe7d-de61-4b89-81a5-a07c0ece5d51" name="Changes" comment="" />
+      <created>1649638612075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649638612075</updated>
+      <workItem from="1649638613489" duration="360000" />
+      <workItem from="1649639028933" duration="242000" />
+      <workItem from="1649640934145" duration="235000" />
+      <workItem from="1649648934527" duration="32000" />
+      <workItem from="1650179346093" duration="1203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
